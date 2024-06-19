@@ -19,3 +19,9 @@ The `./template/config.vim` is the vim script for template automatically loading
 |`source.c`             |empty C language code                      |
 
 
+# Icon Configuration for Vim-DevIcons
+
+
+The Icon Configuration file is `.\dev_icons\icon_config.vim`.
+
+

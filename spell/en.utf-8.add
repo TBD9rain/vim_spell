@@ -2,8 +2,10 @@ CMD
 DSP
 DUT
 DevIcons
+EBR
 ModelSim
 NERDTree
+PMI
 QuestaSim
 README
 RGB
@@ -34,6 +36,7 @@ modelsim
 nvim
 onboard
 pc
+pmi
 powerline
 powershell
 rebase

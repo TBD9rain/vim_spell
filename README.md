@@ -13,8 +13,8 @@ The `./template/config.vim` is the vim script for template automatically loading
 |Template File          |Description                                |
 |:---                   |:---                                       |
 |`template.gitignore`   |.gitignore                                 |
-|`source.v`             |empty verilog source code                  |
-|`testbench.v`          |empty verilog testbench                    |
+|`source.v`             |empty Verilog source code                  |
+|`testbench.v`          |empty Verilog testbench                    |
 |`modelsim.do`          |ModelSim & QuestaSim simulation script     |
 |`source.c`             |empty C language code                      |
 
@@ -32,9 +32,10 @@ The Icon Configuration file is `.\dev_icons\icon_config.vim`.
 
 # UltiSnips
 
-|Filetype with Snippets     |
-|:---                       |
-|`.snippets`                |
-|`.v`                       |
+|Snippets File              |Description                    |
+|:---                       |:---                           |
+|`snippets.snippets`        |for UltiSnips snippets editing |
+|`verilog.snippets`         |for Verilog editing            |
+|`c.snippets`               |for C language editing         |
 
 

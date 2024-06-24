@@ -35,5 +35,6 @@ The Icon Configuration file is `.\dev_icons\icon_config.vim`.
 |Filetype with Snippets     |
 |:---                       |
 |`.snippets`                |
+|`.v`                       |
 
 

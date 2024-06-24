@@ -21,14 +21,19 @@ The `./template/config.vim` is the vim script for template automatically loading
 
 # Icon Configuration for Vim-DevIcons
 
-
 The Icon Configuration file is `.\dev_icons\icon_config.vim`.
 
 
 # Language Server
 
-
 |Language Server    |Note                           |
 |Verible            |with linter configure file     |
+
+
+# UltiSnips
+
+|Filetype with Snippets     |
+|:---                       |
+|`.snippets`                |
 
 

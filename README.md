@@ -32,10 +32,11 @@ The Icon Configuration file is `.\dev_icons\icon_config.vim`.
 
 # UltiSnips
 
-|Snippets File              |Description                    |
-|:---                       |:---                           |
-|`snippets.snippets`        |for UltiSnips snippets editing |
-|`verilog.snippets`         |for Verilog editing            |
-|`c.snippets`               |for C language editing         |
+|Snippets File              |Description                        |
+|:---                       |:---                               |
+|`snippets.snippets`        |for UltiSnips snippets editing     |
+|`verilog.snippets`         |for Verilog editing                |
+|`verilog_pmi.snippets`     |for Lattice Verilog PMI invoking   |
+|`c.snippets`               |for C language editing             |
 
 
